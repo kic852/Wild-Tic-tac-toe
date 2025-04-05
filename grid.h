@@ -1,6 +1,5 @@
 // Name: Hon Ki Ching
-// Student ID: 1155213287
-// Email: 1155213287@link.cuhk.edu.hk
+
 
 #ifndef GRID_H
 #define GRID_H
